@@ -18,3 +18,11 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,bard.google.com
 # Suspicious request 
 DOMAIN-KEYWORD,openaicom
+# Ip Validate
+DOMAIN-SUFFIX,ip-score.com
+DOMAIN-SUFFIX,ip-lookup.org
+DOMAIN-SUFFIX,ipqualityscore.com
+DOMAIN-SUFFIX,abuseipdb.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,tkstart.com
+DOMAIN-SUFFIX,whatismyipaddress.com
