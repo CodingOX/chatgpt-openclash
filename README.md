@@ -1,5 +1,5 @@
 > 相比于上游修改为：ChatGPT走自己选择的节点，原方式太过死板，并不方便单独指定AI相关的节点。
-> 
+> **Full.ini的名字肯定不能改，切记**
 # Chaptgpt分流规则
 
 因Chatgpt香港节点不支持，所以独立创建了一份openclash分流规则
@@ -8,7 +8,8 @@
 
 使用方法(到openclash配置文件处更新订阅链接)
 
-    https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接(需要使用URL编码，)&config=https%3A%2F%2Fraw.githubusercontent.com%2FCodingOX%2Fchatgpt-openclash%2Fmain%2FFull.ini
+    `https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接(需要使用URL编码，)&config=https%3A%2F%2Fraw.githubusercontent.com%2FCodingOX%2Fchatgpt-openclash%2Fmain%2FFull.ini`
+      `https://(改为自己信任的也行)?target=clash&new_name=true&url=你的订阅链接(需要使用URL编码，)&config=https%3A%2F%2Fraw.githubusercontent.com%2FCodingOX%2Fchatgpt-openclash%2Fmain%2FFull.ini`
     
 控制面板中，Chatgpt选择节点选择，节点选择选择除中国地区（包含香港）的其他节点即可
 
