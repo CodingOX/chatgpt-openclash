@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,poe.com
 #add bard.google.com
 DOMAIN-SUFFIX,bard.google.com
 # Suspicious request 
-DOMAIN-KEYWORD,openaicom
+# DOMAIN-KEYWORD,openaicom
 # Ip Validate
 DOMAIN-SUFFIX,ip-score.com
 DOMAIN-SUFFIX,ip-lookup.org
