@@ -34,5 +34,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 # ideal ai
 DOMAIN-KEYWORD,grazie
-# chatgpt cdn
-DOMAIN-SUFFIX,cdn.oaistatic.com
+# chatgpt 20231116
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
